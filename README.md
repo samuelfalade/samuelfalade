@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelfalade
 - 👀 I’m interested in Virtual reality | UX Design | Educational Game Design
 - 🌱 I’m currently learning Unreal Engine | UX Design | MSC Computer Graphics
-- 💞️ I’m looking to collaborate on Game design
+- 💞️ I’m looking to collaborate on Game design | UX Design and Research
 - 📫 How to reach me samuelfalade@gmail.com
 
 <!---
